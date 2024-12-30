@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "340195578937",
+    "project_id": "mcclec-movie-a3ea6",
+    "storage_bucket": "mcclec-movie-a3ea6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340195578937:android:52a9199e8e1ef79d3429e8",
+        "android_client_info": {
+          "package_name": "com.lec.movie_mcc_lec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9wVLFuhlJtr6klVwyZQNFrTu9Z2DhbI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
