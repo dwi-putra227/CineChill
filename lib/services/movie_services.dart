@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import 'package:movie_mcc_lec/model/movie.dart';
 
 class OmdbService {
-  final String apiKey = '8c4404f8';
+  final String apiKey = '';
   final String baseUrl = 'https://www.omdbapi.com/';
   final Map<String, List<Movie>> _cache = {};
 
