@@ -4,7 +4,7 @@ import 'package:movie_mcc_lec/model/movie.dart';
 
 class OmdbService {
   final String apiKey = '';
-  final String baseUrl = 'https://www.omdbapi.com/';
+  final String baseUrl = '';
   final Map<String, List<Movie>> _cache = {};
 
   Future<List<Movie>> searchMovies(String query) async {
